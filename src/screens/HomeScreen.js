@@ -10,6 +10,9 @@ const screens = {
     items: [
         { name: "Interpolation", navigation: "interpolate" },
         { name: "Timing", navigation: "time" },
+        { name: "Scroll Event Background", navigation: "scrollEvent" },
+        { name: "Decay PanResponder ", navigation: "decay" },
+
     ]
 };
 
